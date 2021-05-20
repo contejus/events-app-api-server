@@ -4,7 +4,7 @@
  * DO NOT store state here - must be part of a stateless service
  */
 class AppConfig {
-    team = 'Tejus team';
-    version = '1.0.1';
+    team = 'Tejus';
+    version = '1.0.2';
 }
 module.exports = AppConfig;
